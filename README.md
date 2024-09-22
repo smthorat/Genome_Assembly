@@ -34,4 +34,7 @@ pip install networkx
 
 # Detail Explaination 
 Visit my website: https://aiinbioinformatics.com/understanding-genome-assembly-using-de-bruijn-graphs-from-concepts-to-code/
+
+<img width="817" alt="Screenshot 2024-09-22 at 6 00 09 PM" src="https://github.com/user-attachments/assets/fb559f33-cb0c-43fa-bb65-016084059359">
+
   

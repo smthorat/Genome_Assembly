@@ -32,4 +32,6 @@ To install the necessary Python libraries, run:
 bash
 pip install networkx
 
-Happy coding
+# Detail Explaination 
+Visit my website: https://aiinbioinformatics.com/understanding-genome-assembly-using-de-bruijn-graphs-from-concepts-to-code/
+  
